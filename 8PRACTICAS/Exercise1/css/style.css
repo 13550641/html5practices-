@@ -9,13 +9,13 @@ h1{
 }
 
 #cursiva{
-    text-align:center;
+	text-align:center;
 	font-size: 50px;
 	color:#f50057 ;
 }
 
 #cursiva1{
-    text-align:center;
+	text-align:center;
 	font-size: 30px;
 	color:#ff1744;
 }
@@ -48,12 +48,12 @@ p{
 }
 aside
 {
-    float: right;
-    width: 50%;
-    box-shadow: 0px 2px 5px #880e4f ;
-    background-color:white;
-    border-radius: 5px;
-    padding-left: 200px;
+	float: right;
+	width: 50%;
+	box-shadow: 0px 2px 5px #880e4f ;
+	background-color:white;
+	border-radius: 5px;
+	padding-left: 200px;
 }
 
 #first{

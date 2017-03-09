@@ -1,30 +1,30 @@
 
 figure{
-    border:solid; 
-border-width:4px; 
-border-color:gray;
+	border:solid; 
+	border-width:4px; 
+	border-color:gray;
 
-   }
+}
 
 #right{
 
 	float: right;
 	width: 50%;
 	padding-left: 100%;
-    
+	
 }
 
 #columnas{
-   column-count:2;
-   column-gap:10px;
-   column-rule:4px groove gray;
+	column-count:2;
+	column-gap:10px;
+	column-rule:4px groove gray;
 }
 
 h1{
-font-size: 25px;
-font-family: georgia;
-color:maroon;
-text-align:center;
+	font-size: 25px;
+	font-family: georgia;
+	color:maroon;
+	text-align:center;
 }
 
 h2{
