@@ -1,0 +1,60 @@
+
+figure{
+    border:solid; 
+border-width:4px; 
+border-color:gray;
+
+   }
+
+#right{
+
+	float: right;
+	width: 50%;
+	padding-left: 100%;
+    
+}
+
+#columnas{
+   column-count:2;
+   column-gap:10px;
+   column-rule:4px groove gray;
+}
+
+h1{
+font-size: 25px;
+font-family: georgia;
+color:maroon;
+text-align:center;
+}
+
+h2{
+	font-family: georgia;
+	font-size: 20px;
+	color:#1b5e20;
+}
+
+#h12{
+	font-family: georgia;
+	font-size: 20px;
+	color:#1b5e20;
+	text-align: center;
+
+}
+
+pre{
+	font-style: arial;
+	font-size: 18px;
+}
+
+p{
+	font-family: verdana;
+	font-size:18px;
+	color: brown;
+}
+
+strong{
+	font-family: georgia;
+	font-size:18px;
+	color:orange;
+
+}

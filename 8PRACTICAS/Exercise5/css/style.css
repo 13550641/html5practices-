@@ -1,0 +1,95 @@
+
+body{
+background: #039be5;
+  	
+}
+header{
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	background-color:#424242 ;
+}
+
+h1{
+	font-size: 50px;
+	font-family: georgia;
+	color: white;
+}
+
+h2{
+	font-size: 20px;
+	font-family: georgia;
+	color: white;
+}
+nav{
+	width: 25%
+	font-size: 18px;
+	font-family: verdana;
+	color: white;
+
+}
+
+aside
+{
+    position: left;
+    width: 235px;
+    box-shadow: 0px 2px 5px #424242 ;
+    border-radius: 5px;
+    padding: 10px;
+   
+}
+
+section{
+	padding-left: 10px;
+
+}
+
+
+figure{
+
+	width: 200%;
+	float: right;
+	border:dotted; 
+	text-align: right;
+    border-color: green;
+}
+
+p{
+	font-size: 20px;
+	font-family: arial;
+	color: green;
+}
+
+pre{
+	font-size: 15px;
+	font-family: arial;
+	color: green;
+
+}
+
+#dif{
+	font-size: 18px;
+	font-family: arial;
+	color: maroon;
+}
+
+#uno{
+width: 100%;
+}
+
+#right {
+	float: right;
+	width: 10%
+}
+
+#left {
+	float: left;
+}
+
+#center {
+	float: right;	
+	margin-right: 550px;
+	border-style: solid;
+	border-color:#424242;
+	border-width: 0px 0px 0px 2px;
+}

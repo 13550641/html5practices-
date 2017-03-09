@@ -1,0 +1,42 @@
+body{
+  		background-color:#bdbdbd;
+  	}
+
+h1{
+text-align:center;
+font-family: Times;
+color:#e91e63  ;
+}
+
+
+a{
+	text-align:center;
+}
+
+p{
+font-size: 25px;
+color:#880e4f;
+font-family: Comic;
+
+}
+
+#p1{
+	font-size: 18px;
+color:#004d40;
+font-family:Verdana;
+
+}
+
+ol{
+font-size: 25px;
+color:#263238   ;
+font-family: arial;
+}
+
+h3{
+font-size: 25px;
+color:#ff5252 ;
+font-family:Georgia ;
+
+}
+
